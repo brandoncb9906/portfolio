@@ -10,7 +10,7 @@ export const CalendarScreen = () => {
         <img src="images/image-6.png" alt="Calendar login" />
       </div>
       <div className="calendar-content">
-        <p>Proyecto Calendario</p>
+        <p className="calendar-title">Proyecto Calendario</p>
       </div>
     </>
   );
