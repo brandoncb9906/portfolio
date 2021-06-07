@@ -10,3 +10,7 @@
   width: 45%;
   border: solid black 1px;
 }
+
+.calendar-content {
+  margin: 2rem 2rem;
+}
