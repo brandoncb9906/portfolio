@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.container img {
+  margin-left: 24px;
+  height: 45%;
+  width: 45%;
+  border: solid black 1px;
+}
